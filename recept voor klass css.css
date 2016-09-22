@@ -1,0 +1,32 @@
+body {
+    background-color: cornsilk ; 
+}
+p {
+    color: rosybrown;
+    text-align: center;
+}
+
+h1 {
+	color: rosybrown;
+	text-align: center;
+}
+h2 {
+	color: rosybrown;
+	text-align: center;
+}
+p {
+line-height: 1.4em;
+}
+p {
+    padding-right: 6cm;
+    padding-left: 6cm;
+}
+img {
+   position: top center;
+   top: 100%;
+   left: 100%;
+   width: 400px;
+   height: 175px;
+   padding-left: 14cm;
+   padding-right: 14cm;
+}
